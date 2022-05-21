@@ -25,5 +25,3 @@
  - Incorpore o creme de leite e retire do fogo antes de ferver.
 
  - Sirva com arroz branco e batata palha.
-
- <a href="www.google.com"><button type="button" class="btn btn-primary">Clique Aqui!</button></a>
